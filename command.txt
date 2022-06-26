@@ -1,0 +1,18 @@
+npm install -g @angular/cli
+ng new frontend ---minimal
+routh => yes
+style CSS
+
+npm start
+
+ng add @angular/material
+
+ng g c componetes/template/header
+ng g c componetes/template/footer
+ng g c componetes/template/nav
+
+ng g s services/product
+
+ng g d directives/red
+
+
